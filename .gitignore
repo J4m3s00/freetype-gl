@@ -51,4 +51,4 @@ makefont
 /out
 /glfw-3.2.1*
 
-./config.h
+config.h
